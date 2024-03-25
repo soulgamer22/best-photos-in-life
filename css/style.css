@@ -1,0 +1,246 @@
+body {
+    background-color:#505050 ;
+    width: 360px;
+    margin: 0 auto;
+}
+
+.text_color_white {
+    color: white;
+}
+
+.font_size_10 {
+    font-size: 10px;
+}
+
+.font_size_12 {
+    font-size: 12px;
+}
+
+.font_size_14 {
+    font-size: 14px;
+}
+
+.font_size_40 {
+    font-size: 40px;
+}
+
+.font_size_46 {
+    font-size: 46px;
+}
+
+.font_family_roboto {
+    font-family: 'Roboto';
+}
+
+nav {
+    padding-top: 13px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding: 0 0 0 37px;
+}
+
+li {
+    display: inline;
+    margin-right: 44px;
+}
+
+a {
+    color: rgb(212, 212, 212);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section_introduction {
+    padding: 8px 0 0 8px;
+}
+
+.section_introduction__logo {
+    position: relative;
+    left: 14px;
+}
+
+.section_introduction__initials__name {
+    padding: 0 0 0 87px;
+    position: relative;
+    top: -30px;
+    left: -5px;
+    font-size: 26px;
+}
+
+.section_introduction__initials__second_name {
+    padding: 0 0 0 4px;
+    font-size: 36px;
+    position: relative;
+    top: -30px;
+}
+
+.section_introduction__foto_1 {
+    position: relative;
+    bottom: 100px;
+    left: 220px;
+}
+
+.section_introduction__foto_2 {
+    position: relative;
+    right: 110px;
+}
+
+.section_introduction__div_slogan_1 {
+    text-align: center;
+}
+
+.section_introduction__slogan_1 {
+    position: relative;
+    left: 65px;
+    bottom: 100px
+}
+
+.section_introduction__div_slogan_2 {
+    text-align: center;
+}
+
+.section_introduction__slogan_2 {
+    position: relative;
+    left: 110px;
+    bottom: 80px
+}
+
+.order_link {
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+.order_link_icon {
+    position: relative;
+    left: 5px;
+    top: 4px;
+}
+.section_introduction__button_order_line {
+    width: 175px;
+    border:none;
+    border-top: 1px solid white;
+    position: relative;
+    bottom: 58px;
+    right: 70px;
+}
+
+.section_about_me__div_title {
+    padding: 0 0 0 35px;
+}
+
+.section_about_me__div_text {
+    padding: 5px 0 0 22px;
+    width: 210px;
+    text-align: center;
+}
+
+.section_introduction__div_foto_3 {
+    height: 30px;
+}
+
+.section_introduction__foto_3 {
+    position: relative;
+    bottom: 145px;
+    left: 252px;
+}
+
+.section_type_service__div_title {
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+
+.section_type_service__div_photo img {
+    margin-left: 15px;
+}
+
+.section_type_service__div_photo img:last-child {
+    margin-right: 0;
+}
+
+.section_type_service__div_link {
+    padding-left: 28px;
+    margin-bottom: 20px;
+}
+
+.section_type_service__div_link_1 {
+    margin-right: 22px;
+}
+
+.section_type_service__div_link_2 {
+    margin-right: 12px;
+}
+
+.section_portfolio_title_div {
+    padding-left: 74px;
+}
+
+.section_portfolio_photo_div {
+    height: 360px;
+}
+
+.section_portfolio_photo_1 {
+    position: relative;
+    left: 20px;
+}
+
+.section_portfolio_photo_2 {
+    position: relative;
+    top: 168px;
+    right: 84px;
+}
+
+.section_portfolio_photo_3 {
+    position: relative;
+    right: 70px;
+    bottom: 25px;
+}
+
+.section_portfolio_photo_4 {
+    position: relative;
+    bottom: 80px;
+    left: 138px;
+}
+
+.section_portfolio_photo_5 {
+    position: relative;
+    top: 48px;
+    left: 34px;
+}
+
+.section_portfolio_photo_6 {
+    position: relative;
+    bottom: 158px;
+    left: 46px;
+}
+
+.section_portfolio_photo_7 {
+    position: relative;
+    bottom: 154px;
+    left: 254px;
+}
+
+.order_link_end_div {
+    text-align: center;
+}
+
+.section_portfolio__button_order_line {
+    margin: 0 0 30px 0;
+}
+
+.section_social {
+    text-align: center;
+}
+
+.section_social a {
+    margin-right: 15px;
+    vertical-align: text-top;
+}
+
+.section_social a:last-child {
+    margin-right: 0;
+}
